@@ -4,6 +4,8 @@
 #' author: "Hein Putter"
 #' date: "`r Sys.setenv(LANG = 'en_US.UTF-8'); format(Sys.Date(), '%d %B %Y')`"
 #' output:
+#'   md_document:
+#'     variant: markdown_github
 #'   pdf_document:
 #'     toc: true
 #'     keep_tex: true
